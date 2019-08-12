@@ -1,0 +1,23 @@
+
+.film{
+    height: auto;
+}
+.film:hover{
+    z-index: 10;
+    transform: scale(1.1);
+    transition: all .3s;
+    outline: 1px solid rgb(213, 216, 27);
+    background: rgba(3, 4, 10, .8);
+    /* max-height: 320px;
+    min-height: 320px */
+}
+
+.film img{
+    width: 100%;
+    transition: all .4;
+}
+
+.film p{
+    color: #fff;
+    background: #040410
+}

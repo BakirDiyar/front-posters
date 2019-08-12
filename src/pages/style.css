@@ -1,0 +1,24 @@
+.notify h3{
+    color: rgb(1, 153, 145);
+    transition: .4s
+}
+
+.createfilms, .films-sect{
+    background: #03040a;
+    padding-bottom: 100px;
+    /* overflow-y: scroll; */
+}
+
+
+
+.createfilms{
+    height: 100vh;
+    
+}
+
+@media screen and (min-width: 769px){
+
+    .films-sect{
+        min-height: 700px
+    }
+}

@@ -1,0 +1,17 @@
+
+.form-control{
+    background: none;
+    border: none;
+    border-bottom: 1px solid #08d9f5a9;
+
+}
+
+.form-control:focus{
+    background: none;
+    box-shadow: none
+}
+
+.btn-film{
+    background: rgb(224, 39, 39);
+    border: none
+}

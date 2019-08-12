@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Front Api netflix
+Front  register poster images netflix
+
 ## Available Scripts
 
 In the project directory, you can run:
